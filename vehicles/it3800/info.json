@@ -1,0 +1,19 @@
+{
+	"Name": "International 3800 School Bus",
+	"Brand": "International",
+	"Author": "LanAriesEchos",
+	"Country":"United States",
+	"Type": "School Bus",
+	"Body Style": "Bus",
+	"Years":{"min":1989, "max":2004},
+	"default_color":"School Bus Yellow",
+	"Source": "Https://www.thelanout.net/mods/beamng/IT3800",
+	
+	"default_pc": "",
+	"colors":{
+        "School Bus Yellow": "0.992156 0.69 0.1411764 1.7",
+        "White": "0.97 0.97 0.97 1.7",
+        "Blue": "0.1778 0.5307 0.7268 1.7",
+        "Black": "0.19562737642585554 0.19568404921279767 0.19637262357414448 1.405"
+    }
+}

@@ -1,0 +1,44 @@
+{
+	"it3800": {
+		"information": {
+			"name": "Frame",
+			"authors": "LanAriesEchos",
+			"value": 6000
+		},
+		
+		"slotType": "main",
+		
+		"refNodes": [
+		
+		["ref:", "left:", "back:", "up:"],
+		["tc", "tl", "tb", "tu"],
+		],
+	
+		
+		
+		"nodes": [
+		["id", "posX", "posY", "posZ"],
+		{"nodeWeight": 10},
+		{"nodeMaterial": "|NM_METAL"},
+		{"collision": true},
+		{"selfCollision": false},	
+		["tc", 0, 0, 0],
+		["tl", 1, 0, 0],
+		["tb", 0, 1, 0],
+		["tu", 0, 0, 1],
+		],
+	
+	"beams": [
+	["id1:", "id2:"],
+	["tc", "tu"],
+	["tc", "tl"],
+	["tc", "tb"],
+
+		
+		
+	["tu", "tb"],
+	["tu", "tl"],
+	["tl", "tb"],
+	],	
+	}
+}
